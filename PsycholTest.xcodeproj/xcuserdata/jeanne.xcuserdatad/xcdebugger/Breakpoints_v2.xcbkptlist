@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9673454D-493B-48B0-8F81-940AC3D97279"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "693960C5-D312-48E5-B8D4-B9496F497941"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PsycholTest/Controller/QuizViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "initQuizUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA6E70AA-D145-4603-B1AE-0A78DE7F3BAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PsycholTest/Controller/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA6E70AA-D145-4603-B1AE-0A78DE7F3BAB - 46fd400938a3fabd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "DA6E70AA-D145-4603-B1AE-0A78DE7F3BAB - 46fd400938a3f97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "DA6E70AA-D145-4603-B1AE-0A78DE7F3BAB - 46fd400938a3f9a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "631D109F-5DC9-4041-A9AD-B4EA6F9F11BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PsycholTest/Controller/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "calculateAnswers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "631D109F-5DC9-4041-A9AD-B4EA6F9F11BB - 1ab5e2bc69d96ffa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.calculateAnswers() -&gt; Swift.String"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2052">
+               </Location>
+               <Location
+                  uuid = "631D109F-5DC9-4041-A9AD-B4EA6F9F11BB - 1ab5e2bc69d96d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.calculateAnswers() -&gt; Swift.String"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2052">
+               </Location>
+               <Location
+                  uuid = "631D109F-5DC9-4041-A9AD-B4EA6F9F11BB - 1ab5e2bc69d96af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.calculateAnswers() -&gt; Swift.String"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2052">
+               </Location>
+               <Location
+                  uuid = "631D109F-5DC9-4041-A9AD-B4EA6F9F11BB - 1ab5e2bc69d96b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PsycholTest.ResultViewController.calculateAnswers() -&gt; Swift.String"
+                  moduleName = "PsycholTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/PsycholTest/PsycholTest/Controller/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2052">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
